@@ -6,4 +6,4 @@ for (i = 0; i <= 15; i += 1) {
         window.console.log(i + " is an odd number.<br>");
     }
 }
-Footer
+
